@@ -62,6 +62,7 @@ KeyScope/
 ├── LICENSE.md         # Legal and ethical use terms
 ├── requirements.txt    # Dependencies (reference only)
 ├── sample_keylog.txt    # Sample Keylog File
+├── documentation.md    # Documentation (code)
 └── logo.png          # Logo
 ```
 
